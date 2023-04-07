@@ -1,3 +1,1 @@
-# Python
-
-Учебные проекты на python
+#Python Learning Projects
